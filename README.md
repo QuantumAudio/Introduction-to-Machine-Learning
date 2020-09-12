@@ -1,2 +1,2 @@
-# Introduction to Machine Learning
+# Machine Learning
 This is part three in a three-part series from a digital signal processing (DSP) design course. Here we start with trend extraction and work our way through adaptive filtering. The theory assumes the reader is familiar with block-by-block and sample-by-sample processing methods. If you're not familiar with sample-by-sample processing methods, feel free to check out part one on [audio processors](https://github.com/QuantumAudio/Digital-Audio-Processors). Section two describes in detail the theory and implementation of DCT and MDCT [data compression](https://github.com/QuantumAudio/Data-Compression) methods. Of course, if you just want the machine learning algorithms, feel free to use them.
